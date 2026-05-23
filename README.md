@@ -23,7 +23,7 @@
     Responsive SourceBans++ 1.8.x Theme
     <br />
     <br />
-    <a href="https://sbpp.dnagames.site/">View Live Demo</a>
+    <a href="https://sbpp.dnagames.win/">View Live Demo</a>
     ·
     <a href="https://github.com/DNA-styx/sbpp-windmill-dashboard/issues/new">Report a Bug</a>
     ·
